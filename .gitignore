@@ -1,0 +1,10 @@
+# Dependency folders
+/node_modules
+/client/node_modules
+/server/node_modules
+
+# Environment file with secrets
+/server/.env
+
+# Production build folder
+/client/build
